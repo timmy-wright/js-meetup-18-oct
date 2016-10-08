@@ -30,9 +30,6 @@ module.exports = function (config) {
       resolve: {
         extensions: ['', '.ts', '.tsx', '.css', ".js", ".jsx"],
         moduleDirectories: ["web_modules", "node_modules"],
-        alias: {
-          specificConfig: "./specificConfig/test.ts"
-        }
       },
       module: {
         loaders: [
