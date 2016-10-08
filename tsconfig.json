@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "declaration": false,
+    "removeComments": false,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+    "_meta",
+    "node_modules",
+    "typings/browser",
+    "src",
+    "typings/browser.d.ts"
+  ]
+}
