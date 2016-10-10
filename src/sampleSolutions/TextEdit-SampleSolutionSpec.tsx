@@ -1,6 +1,6 @@
 
 
-import {TextEdit} from "./TextEdit";
+import {TextEdit} from "./TextEdit-SampleSolution";
 import * as React from "react";
 import {mount} from "enzyme";
 
