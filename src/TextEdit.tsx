@@ -12,6 +12,7 @@ interface TextEditState {
 }
 
 export class TextEdit extends React.Component<TextEditProps, TextEditState> {
+    static displayName = "TextEdit";
 
     public render() {
         return (
