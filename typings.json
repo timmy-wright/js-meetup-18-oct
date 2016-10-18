@@ -4,6 +4,7 @@
     "jasmine": "registry:dt/jasmine#2.5.0+20161003201800",
     "react": "registry:dt/react#0.14.0+20160927082313",
     "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
-    "redux": "registry:dt/redux#3.5.2+20160703092728"
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "require": "registry:dt/require#2.1.20+20160919185614"
   }
 }
